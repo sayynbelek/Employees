@@ -1,0 +1,7 @@
+Z:\Employees\Employees\bin\Debug\Employees.exe.config
+Z:\Employees\Employees\bin\Debug\Employees.exe
+Z:\Employees\Employees\bin\Debug\Employees.pdb
+Z:\Employees\Employees\obj\Debug\Employees.csprojResolveAssemblyReference.cache
+Z:\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+Z:\Employees\Employees\obj\Debug\Employees.exe
+Z:\Employees\Employees\obj\Debug\Employees.pdb
